@@ -17,8 +17,8 @@ title: Modular Monday
 email: modularmonday@hfk-bremen.de
 description: >- # this means to ignore newlines until "baseurl:"
   Modular Monday is a performance series featuring sound and music works loosely related to electronic and digital artifacts and concepts.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://modularmonday.hfk-bremen.de" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown
