@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Hochschultage"
-date:   2025-02-15 18:30:00 +0100
+date:   2025-02-16 14:00:00 +0100
 categories: event
 ---
 
