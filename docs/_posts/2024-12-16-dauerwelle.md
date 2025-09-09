@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Dauerwelle"
+title:  "#01 Dauerwelle"
 date:   2024-12-16 18:30:00 +0100
 categories: event
+permalink: /modular-monday/01-dauerwelle/
 ---
 
 with contributions by:

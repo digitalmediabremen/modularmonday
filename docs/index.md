@@ -10,18 +10,23 @@ Modular Monday always takes place on a Monday. By default, each event features 2
 ### Upcoming Events:
 
 <ul>
-{% assign sorted_posts = site.posts | sort: "date" %}
-<!-- {% assign sorted_posts = site.posts | sort: "date" | reverse %} -->
+{% assign sorted_posts = site.posts | sort: "date" | reverse %}
 {% for post in sorted_posts %}
-  {% if post.date < site.time %}
-    <li style="text-decoration: line-through;">@ <a href="{{ post.url | relative_url }}">{{ post.title }}</a> {{ post.date | date: "%Y-%m-%d %H:%M" }}</li>
+  {% if post.date > site.time %}
+    <li> 
+        <a href="{{ post.url | relative_url }}"> {{ post.date | date: "%Y-%m-%d %H:%M" }}
+        @ {{ post.title }}</a>
+    </li>
   {% endif %}
 {% endfor %}
 
-{% assign sorted_posts = site.posts | sort: "date" %}
+{% assign sorted_posts = site.posts | sort: "date" | reverse %}
 {% for post in sorted_posts %}
-  {% if post.date > site.time %}
-    <li>@ <a href="{{ post.url | relative_url }}">{{ post.title }}</a> {{ post.date | date: "%Y-%m-%d %H:%M" }}</li>
+  {% if post.date < site.time %}
+    <li style="text-decoration: line-through;"> 
+        <a href="{{ post.url | relative_url }}"> {{ post.date | date: "%Y-%m-%d %H:%M" }}
+        @ {{ post.title }}</a>
+    </li>
   {% endif %}
 {% endfor %}
 </ul>
