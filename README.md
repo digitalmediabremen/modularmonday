@@ -1,3 +1,1 @@
-# modularmonday
-
-https://webadmin.hfk-bremen.de
+source files for [modular monday webiste](https://modularmonday.hfk-bremen.de)
