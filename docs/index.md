@@ -3,7 +3,7 @@ layout: default
 title: "Modular Monday — Performing Artifacts + Electronics + Sound + Music"
 ---
 
-23Currently Modular Monday is a performance series featuring sound and music works loosely related to electronic and digital artifacts and concepts. It provides a platform for raw, unfinished, and experimental situations, serving as a semi-public, semi-informal rehearsal space where performers and audiences can share, discuss, and engage in dialogues about common interests and ideas.
+Currently Modular Monday is a performance series featuring sound and music works loosely related to electronic and digital artifacts and concepts. It provides a platform for raw, unfinished, and experimental situations, serving as a semi-public, semi-informal rehearsal space where performers and audiences can share, discuss, and engage in dialogues about common interests and ideas.
 
 Modular Monday always takes place on a Monday. By default, each event features 2–4 performances, each presenting a 5–15 minute set, followed by conversations about the works, techniques, technologies, and concepts presented.
 
@@ -36,3 +36,5 @@ Please fill out the form if you are interested in contributing: [http://dm-hb.de
 Follow us at [@modularmondaybremen](https://www.instagram.com/modularmondaybremen/).
 
 [Imprint](./imprint)
+
+(23)
