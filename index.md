@@ -36,5 +36,3 @@ Please fill out the form if you are interested in contributing: [http://dm-hb.de
 Follow us at [@modularmondaybremen](https://www.instagram.com/modularmondaybremen/).
 
 [Imprint](./imprint)
-
-(foo)
