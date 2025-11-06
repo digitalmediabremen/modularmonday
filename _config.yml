@@ -24,6 +24,7 @@ url: "https://modularmonday.hfk-bremen.de" # the base hostname & protocol for yo
 markdown: kramdown
 theme: minima
 permalink: /:slug:output_ext
+future: true
 
 plugins:
   - jekyll-feed
