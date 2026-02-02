@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "#03 Radio Angrezi"
-date:   2025-02-16 14:00:00 +0100
+title: "#03 Radio Angrezi"
+date: 2025-02-16 14:00:00 +0100
 categories: event
 permalink: /modular-monday/03-radio-angrezi/
 ---
