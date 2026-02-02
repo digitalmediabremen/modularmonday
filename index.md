@@ -33,9 +33,9 @@ Modular Monday always takes place on a Monday. By default, each event features 2
 
 Sign up to our [newsletter](https://dispatch.hfk-bremen.de/forms/nfrm_oX2jKAV8) if you want to be informed about upcoming events.
 
-Please fill out the form if you are interested in contributing: [http://dm-hb.de/mm-oc](http://dm-hb.de/mm-oc) or contact [modularmonday@hfk-bremen.de](mailto:modularmonday@hfk-bremen.de).
+Follow us at [@modularmondaybremen](https://www.instagram.com/modularmondaybremen).
 
-Follow us at [@modularmondaybremen](https://www.instagram.com/modularmondaybremen/).
+If you are interested in contributing please fill out the: [form](http://dm-hb.de/mm-oc) or contact [modularmonday@hfk-bremen.de](mailto:modularmonday@hfk-bremen.de).
 
 Modular Monday is generously funded by [Hochschule für Künste Bremen](https://hfk-bremen.de/).
 
