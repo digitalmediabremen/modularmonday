@@ -37,6 +37,6 @@ Please fill out the form if you are interested in contributing: [http://dm-hb.de
 
 Follow us at [@modularmondaybremen](https://www.instagram.com/modularmondaybremen/).
 
-Modular Monday is generously funded by [Hochschule für Künste Bremen.](https://hfk-bremen.de/).
+Modular Monday is generously funded by [Hochschule für Künste Bremen.](https://hfk-bremen.de/)
 
 [Imprint](./imprint)
